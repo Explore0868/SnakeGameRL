@@ -1,0 +1,2 @@
+GRID_W = 30
+GRID_H = 30
